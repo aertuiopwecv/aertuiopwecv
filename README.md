@@ -1,28 +1,27 @@
 # 👋 Hello, I'm Nuii!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=你好，我是+Nuii+👋;正在修炼+Kotlin,+Python+和+Java;一切伟大的代码都始于+Hello+World;Coding+my+way+to+the+stars+🌟" alt="Typing SVG" />
-</p>
+
 
 ### 🧑‍💻 关于我 (About Me)
-- 🔭 **目前重点**：考上**大学**深入学习 **Kotlin** ，尝试 **Java**后端 
-- 🐍 **Python 实践**：利用 Python 编写自动化脚本和进行数据处理
-- ⚡ **核心理念**：能通就行~
-- 🌍 **坐标**： BNE。
-- 🌱 **终身学习**：暂无
+- 🎓 **我的目标**：正在努力考取大学，深入钻研 **Kotlin**。
+- 🏗️ **后端探索**：尝试使用 **Java** 开发后端应用。
+- 🐍 **脚本魔法**：利用 **Python** 编写自动化工具，解放双手。
+- ⚡ **座右铭**：能通就行（Done is better than perfect）。
+- 🌍 **坐标**：BNE (Brisbane, Australia)。
+- 🌱 **状态**：不断学习中...
 
 ---
 
 ### 🛠 技术栈 (Skills & Tools)
 
-**正在学习**
+**💻 编程语言**
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-**工具与环境**
+**🛠 工具与环境**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -40,7 +39,6 @@
 
 ### 📊 编程周报 (Weekly Activity)
 <!--START_SECTION:waka-->
-> ⏳ 正在从 WakaTime 获取最新数据... (如果这里是空的，请确保 Actions 运行成功)
 <!--END_SECTION:waka-->
 
 ---
