@@ -33,7 +33,7 @@
 ---
 
 ### 🏆 GitHub 荣誉墙 (Trophies)
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=aertuiopwecv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=aertuiopwecv&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
