@@ -6,13 +6,8 @@
 - ☕ **Java**: 巩固后端基础。
 
 ---
-
-### 📊 我的周编程统计 (Weekly Coding Stats)
 <!--START_SECTION:waka-->
-<!-- 这里是 WakaTime 数据的自动填充区域 -->
-<!-- 注意：不要删除这两行注释，脚本靠它们定位 -->
 <!--END_SECTION:waka-->
-
 ---
 
 ### 🛠 常用工具 (Tools)
