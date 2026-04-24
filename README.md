@@ -40,7 +40,6 @@
 ### 📊 编程周报 (Weekly Activity)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 ---
 
 ### 📈 综合统计 (Statistics)
