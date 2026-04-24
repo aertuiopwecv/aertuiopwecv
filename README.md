@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nuii!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FD7FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer+in+Progress;Learning+Kotlin,+Python+%26+Java;Building+something+cool..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=你好，我是+Nuii+👋;正在修炼+Kotlin,+Python+和+Java;一切伟大的代码都始于+Hello+World;Coding+my+way+to+the+stars+🌟" alt="Typing SVG" />
 </p>
 
 ### 🧑‍💻 关于我 (About Me)
