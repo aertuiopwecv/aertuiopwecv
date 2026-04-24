@@ -32,10 +32,6 @@
 
 ---
 
-### 🏆 GitHub 荣誉墙 (Trophies)
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=aertuiopwecv&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ### 📊 编程周报 (Weekly Activity)
 <!--START_SECTION:waka-->
